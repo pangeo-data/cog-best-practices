@@ -13,7 +13,11 @@ This repository focuses on distributed computing within the same datacenter usin
 
 We can use [Pangeo Cloud](https://pangeo.io/cloud.html) and [Pangeo Binder](https://aws-uswest2-binder.pangeo.io) on AWS us-west-2 to iterate on examples in a common computing environment, click the button below to run the notebooks in this repository interactivel via Pangeo Binder on AWS:
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoBinderAWS&message=us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-data/notebook-binder/2020.12.08?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fpangeo-data%252Fcog-best-practices%26urlpath%3Dlab%252Ftree%252Fcog-best-practices%252F%26branch%3Dmain) 
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoBinderAWS&message=us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-data/notebook-binder/2021.02.02?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fpangeo-data%252Fcog-best-practices%26urlpath%3Dlab%252Ftree%252Fcog-best-practices%252F%26branch%3Dmain) 
+
+For notebooks that don't require Dask clusters you can use mybinder.org (which runs in [GCP and other data centers](https://binderhub.readthedocs.io/en/stable/federation/federation.html)) with limited compute resources:
+
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=MyBinder.org&message=launch&color=blue)](https://mybinder.org/v2/gh/pangeo-data/notebook-binder/2021.02.02?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fpangeo-data%252Fcog-best-practices%26urlpath%3Dlab%252Ftree%252Fcog-best-practices%252F%26branch%3Dmain) 
 
 
 #### Organization
